@@ -1,4 +1,4 @@
-![](/home/scale/github/NTUST-HIS-Lab.github.io/imgs/hislab-top.png)
+![](./imgs/hislab-top.png)
 
 ![version](https://img.shields.io/static/v1?label=version&message=v0.1&color=<COLOR>) ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen) ![issues](https://img.shields.io/github/issues/NTUST-HIS-Lab/NTUST-HIS-Lab.github.io) ![license](https://img.shields.io/github/license/NTUST-HIS-Lab/NTUST-HIS-Lab.github.io)
 
